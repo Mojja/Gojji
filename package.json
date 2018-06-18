@@ -1,6 +1,6 @@
 {
   "name": "@hqro/gojji",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Modulable React components library",
   "main": "dist/main.js",
   "repository": "https://github.com/hqro/gojji.git",
