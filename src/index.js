@@ -1,3 +1,4 @@
 import Flex from 'components/Flex'
+import Input from 'components/Input'
 
-export { Flex }
+export { Flex, Input }
