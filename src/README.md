@@ -1,3 +1,0 @@
-## Gojji React components
-
-test
